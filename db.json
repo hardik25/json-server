@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "Hello",
+      "description": "First data entry",
+      "id": 1
+    },
+    {
+      "title": "second",
+      "description": "second data entry",
+      "id": 2
+    },
+    {
+      "title": "second",
+      "description": "sjhbfjsdabjf",
+      "id": 3
+    },
+    {
+      "title": "One more stream",
+      "description": "Hello World! I am awesome and brilliant.",
+      "id": 5
+    },
+    {
+      "title": "Conan O'Brien  @ HollyWood",
+      "description": "Live from Los Angeles, CA",
+      "id": 6
+    },
+    {
+      "title": "New Year",
+      "description": "hello world ",
+      "userID": "113412881252641628784",
+      "id": 7
+    }
+  ]
+}
