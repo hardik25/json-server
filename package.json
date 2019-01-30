@@ -2,10 +2,10 @@
   "name": "api-server",
   "version": "1.0.0",
   "description": "API server ",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "author": "Hardik Tewari",
   "license": "ISC",
